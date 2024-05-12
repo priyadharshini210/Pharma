@@ -1,5 +1,5 @@
-# Project Responsive Web Design using Bootstrap
-## Date:12=05-2024
+![image](https://github.com/priyadharshini210/Pharma/assets/148514638/2057765b-0e07-4751-b86d-e182afb738d8)# Project Responsive Web Design using Bootstrap
+## Date:12-05-2024
 
 ## AIM:
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
@@ -452,9 +452,15 @@ body{
 ```
 
 ## OUTPUT:
+![image](https://github.com/priyadharshini210/Pharma/assets/148514638/6e58f598-4549-4d39-b0c7-d4ec0c0a8492)
 ![image](https://github.com/priyadharshini210/Pharma/assets/148514638/a444188e-2a1e-4d19-8301-c60d3b190779)
+![image](https://github.com/priyadharshini210/Pharma/assets/148514638/cdb6e4df-8f15-47d7-9965-878292ae2e1d)
+![image](https://github.com/priyadharshini210/Pharma/assets/148514638/fde5b3f3-7878-4937-839f-2a7baf847376)
+
+
 ## CODE:
-![Uploading image.png…]()
+![image](https://github.com/priyadharshini210/Pharma/assets/148514638/b950e13d-6d52-4d31-afac-86a3c7cc6b7e)
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
