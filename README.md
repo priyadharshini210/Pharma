@@ -454,7 +454,7 @@ body{
 ## OUTPUT:
 ![image](https://github.com/priyadharshini210/Pharma/assets/148514638/6e58f598-4549-4d39-b0c7-d4ec0c0a8492)
 ![image](https://github.com/priyadharshini210/Pharma/assets/148514638/a444188e-2a1e-4d19-8301-c60d3b190779)
-![image](https://github.com/priyadharshini210/Pharma/assets/148514638/cdb6e4df-8f15-47d7-9965-878292ae2e1d)
+![image](https://github.com/priyadharshini210/Pharma/assets/148514638/5207e35a-a01a-49eb-ba00-7d16a11fb452)
 ![image](https://github.com/priyadharshini210/Pharma/assets/148514638/fde5b3f3-7878-4937-839f-2a7baf847376)
 
 
